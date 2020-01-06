@@ -1,0 +1,2 @@
+2020-01-05 16:33:38,444 INFO [root] [__init__.py(<module>:10)] - TEST日志器能不能正常工作
+2020-01-05 16:33:38,676 INFO [root] [login.py(test_login:28)] - 登陆成功接口返回的数据为： {'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'afdc0c1c-f8ab-43c6-b4e4-0f7b9cef1044'}

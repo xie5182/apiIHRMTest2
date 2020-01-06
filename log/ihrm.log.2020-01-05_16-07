@@ -1,0 +1,18 @@
+2020-01-05 16:07:20,001 INFO [root] [__init__.py(<module>:10)] - TEST日志器能不能正常工作
+2020-01-05 16:07:20,294 INFO [root] [test_login_para.py(test01_login_success:29)] - 登陆成功接口返回的数据为： {'success': True, 'code': 10000, 'message': '操作成功！', 'data': '67751f49-fa03-462d-8742-61cedb4e5ff8'}
+2020-01-05 16:07:20,374 INFO [root] [test_login_para.py(test01_login_success:29)] - 登陆成功接口返回的数据为： {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-01-05 16:07:20,453 INFO [root] [test_login_para.py(test01_login_success:29)] - 登陆成功接口返回的数据为： {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-01-05 16:07:20,522 INFO [root] [test_login_para.py(test01_login_success:29)] - 登陆成功接口返回的数据为： {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-01-05 16:07:20,592 INFO [root] [test_login_para.py(test01_login_success:29)] - 登陆成功接口返回的数据为： {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-01-05 16:07:20,669 INFO [root] [test_login_para.py(test01_login_success:29)] - 登陆成功接口返回的数据为： {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-01-05 16:07:20,738 INFO [root] [test_login_para.py(test01_login_success:29)] - 登陆成功接口返回的数据为： {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-01-05 16:07:20,808 INFO [root] [test_login_para.py(test01_login_success:29)] - 登陆成功接口返回的数据为： {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-01-05 16:07:50,925 INFO [root] [__init__.py(<module>:10)] - TEST日志器能不能正常工作
+2020-01-05 16:07:51,179 INFO [root] [test_login_para.py(test_login:29)] - 登陆成功接口返回的数据为： {'success': True, 'code': 10000, 'message': '操作成功！', 'data': '8a31ffd0-9f70-4192-a4e8-aec849a01f49'}
+2020-01-05 16:07:51,248 INFO [root] [test_login_para.py(test_login:29)] - 登陆成功接口返回的数据为： {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-01-05 16:07:51,326 INFO [root] [test_login_para.py(test_login:29)] - 登陆成功接口返回的数据为： {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-01-05 16:07:51,396 INFO [root] [test_login_para.py(test_login:29)] - 登陆成功接口返回的数据为： {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-01-05 16:07:51,466 INFO [root] [test_login_para.py(test_login:29)] - 登陆成功接口返回的数据为： {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-01-05 16:07:51,543 INFO [root] [test_login_para.py(test_login:29)] - 登陆成功接口返回的数据为： {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-01-05 16:07:51,612 INFO [root] [test_login_para.py(test_login:29)] - 登陆成功接口返回的数据为： {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-01-05 16:07:51,681 INFO [root] [test_login_para.py(test_login:29)] - 登陆成功接口返回的数据为： {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}

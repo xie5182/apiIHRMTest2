@@ -1,0 +1,3 @@
+2020-01-05 16:39:02,398 INFO [root] [__init__.py(<module>:10)] - TEST日志器能不能正常工作
+2020-01-05 16:39:02,614 INFO [root] [login.py(test_login:29)] - 登陆成功接口返回的数据为： {'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'd04bc084-bbdd-44dc-ba52-5158ba25897f'}
+2020-01-05 16:39:02,614 INFO [root] [login.py(test_login:38)] - 保存的令牌是：{'Content-Type': 'application/json', 'Authorization': 'd04bc084-bbdd-44dc-ba52-5158ba25897f'}

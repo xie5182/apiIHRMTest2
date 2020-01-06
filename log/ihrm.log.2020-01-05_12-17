@@ -1,0 +1,2 @@
+2020-01-05 12:17:19,710 INFO [root] [__init__.py(<module>:10)] - TEST日志器能不能正常工作
+2020-01-05 12:17:20,164 INFO [root] [test_login.py(test03_password_is_error:56)] - 密码错误时输入的数据为： {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
